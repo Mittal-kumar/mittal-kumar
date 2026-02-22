@@ -15,12 +15,7 @@
 <a href="https://linkedin.com/in/mittalkumar">
   <img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-mittal--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001433"/>
 </a>
-<a href="https://profiles.stanford.edu/mittal-kumar">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%B2_Stanford-Visiting+Researcher-8C1515?style=for-the-badge&logoColor=white&labelColor=2d0000"/>
-</a>
-<a href="https://github.com/Mittal-kumar">
-  <img src="https://img.shields.io/badge/%F0%9F%90%99_GitHub-Mittal--kumar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-</a>
+
 
 <br/><br/>
 
