@@ -30,16 +30,34 @@
 
 ---
 
-## 🔭 Currently Building
+## 🔭 Currently Working On
 
-```yaml
-role:       Health Informatics Associate  @  Downtown Pain Physicians · Brooklyn, NY
-focus:      EHR Analytics · Clinical Dashboards · Patient Outcome Metrics
-stack:      Epic · FHIR APIs · Python · SQL · Tableau · Power BI
-standards:  HIPAA / GDPR Data Governance & Compliance
-research:   Clinical AI · Interpretable ML · Graph Neural Networks
-open_to:    Research Collaborations · Healthcare AI · Clinical Data Science Roles
-```
+<table>
+<tr>
+<td>🏥 <b>Role</b></td>
+<td>Health Informatics Associate &nbsp;·&nbsp; Downtown Pain Physicians, Brooklyn NY</td>
+</tr>
+<tr>
+<td>🎯 <b>Focus</b></td>
+<td>EHR Analytics &nbsp;·&nbsp; Clinical Dashboards &nbsp;·&nbsp; Patient Outcome Metrics</td>
+</tr>
+<tr>
+<td>🔧 <b>Stack</b></td>
+<td>Epic &nbsp;·&nbsp; FHIR APIs &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Power BI</td>
+</tr>
+<tr>
+<td>🛡️ <b>Standards</b></td>
+<td>HIPAA &nbsp;/&nbsp; GDPR &nbsp;·&nbsp; Clinical Data Governance &amp; Compliance</td>
+</tr>
+<tr>
+<td>🔬 <b>Research</b></td>
+<td>Clinical AI &nbsp;·&nbsp; Interpretable Machine Learning &nbsp;·&nbsp; Graph Neural Networks</td>
+</tr>
+<tr>
+<td>🤝 <b>Open To</b></td>
+<td>Research Collaborations &nbsp;·&nbsp; Healthcare AI &nbsp;·&nbsp; Clinical Data Science Roles</td>
+</tr>
+</table>
 
 ---
 
@@ -163,55 +181,24 @@ Enhanced U-Net for clinical MRI tumor segmentation. Processed **1 TB** of imagin
 </td>
 <td width="50%" valign="top">
 
-```
-Aug 2025 →  Health Informatics Associate
-  NOW       Downtown Pain Physicians, Brooklyn
-            EHR · Dashboards · HIPAA
-
-Aug 2024 →  Research Assistant
-Apr 2025    Stony Brook Medicine
-            GNN · EHR · AUROC +11%
-
-Jul 2023 →  Research Intern (Published)
-Dec 2023    CV Lab, Sapienza · Rome
-            U-Net · +14% Dice · 1TB data
-```
+<table>
+<tr>
+<td><b>Aug 2025 → Now</b></td>
+<td><b>Health Informatics Associate</b><br/>Downtown Pain Physicians · Brooklyn<br/><sub>EHR Analytics · Dashboards · HIPAA</sub></td>
+</tr>
+<tr>
+<td><b>Aug 2024 – Apr 2025</b></td>
+<td><b>Research Assistant</b><br/>Stony Brook Medicine<br/><sub>GNN · EHR Data · AUROC +11%</sub></td>
+</tr>
+<tr>
+<td><b>Jul – Dec 2023</b></td>
+<td><b>Research Intern · Published</b><br/>Computer Vision Lab · Sapienza, Rome<br/><sub>U-Net MRI · Dice +14% · 1 TB data</sub></td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<!-- 3D Isometric Contribution Calendar -->
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api/isometric1.svg?username=Mittal-kumar&theme=nightowl" width="100%" alt="3D Contribution Calendar"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mittal-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=FFFFFF&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mittal-kumar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mittal-kumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=A855F7&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mittal-kumar&theme=react-dark&bg_color=0D1117&color=00D9FF&line=A855F7&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&radius=6" width="98%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mittal-kumar&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8"/>
-</p>
-
-<!-- Contribution Snake — enable by adding .github/workflows/snake.yml to your repo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mittal-kumar/Mittal-kumar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="98%"/>
-</p>
 
 ---
 
