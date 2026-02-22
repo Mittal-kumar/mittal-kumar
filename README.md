@@ -37,46 +37,27 @@
 <br/>
 
 ---
+### Education
+
+| | Institution | Credential | Year |
+|--|:--|:--|:--:|
+| 🌲 | **Stanford University** | Data Science in Medicine | 2025 |
+| 🦅 | **SUNY Stony Brook** | M.S. Biomedical Informatics | 2024–25 |
+| 🏛️ | **Sapienza University, Rome** | B.S. Bioinformatics | 2020–23 |
+| 🇪🇸 | **San Jorge University, Spain** | Erasmus Exchange | 2023 |
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
 
 <!-- SYSTEM PROFILE BOX -->
 <table>
 <tr>
 <td>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM PROFILE :: MITTAL KUMAR :: HEALTH INFORMATICS + CLINICAL AI     ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  ROLE   →  Health Informatics Associate @ Downtown Pain Physicians       ║
-║  LAB    →  Visiting Researcher @ Stanford University                     ║
-║  STACK  →  Epic EHR · FHIR · GNN · U-Net · SHAP · PyTorch · SQL         ║
-║  SCOPE  →  3 Continents · 4 Universities · 1 Published Paper             ║
-║  GOAL   →  Where a better model means a patient goes home, not back in   ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
 
 > ⚡ I operate at the intersection of **genomics and GPU clusters**, turning raw EHR signals into early clinical warnings.  
 > My work spans FHIR pipelines, HIPAA-grade governance, and deep learning systems validated on real patient outcomes across 3 continents.
-
----
-
-## 🔭 &nbsp; MISSION CONTROL — Currently Active
-
-<div align="center">
-
-|  | Domain | Status |
-|--|:--|:--|
-| 🏥 | **Role** — Health Informatics Associate · Downtown Pain Physicians, Brooklyn NY | ![Active](https://img.shields.io/badge/●-ACTIVE-e8e8e8?style=flat-square&labelColor=1a1a1a) |
-| 🧠 | **Research** — Clinical AI · Interpretable ML · Graph Neural Networks | ![Live](https://img.shields.io/badge/●-LIVE-c0c0c0?style=flat-square&labelColor=1a1a1a) |
-| 🔧 | **Stack** — Epic · FHIR APIs · Python · SQL · Tableau · Power BI | ![Deployed](https://img.shields.io/badge/●-DEPLOYED-a8a8a8?style=flat-square&labelColor=1a1a1a) |
-| 🛡️ | **Compliance** — HIPAA / GDPR · Clinical Data Governance | ![Certified](https://img.shields.io/badge/●-CERTIFIED-d4d4d4?style=flat-square&labelColor=1a1a1a) |
-| 🤝 | **Open To** — Research Collaborations · Healthcare AI · Clinical Data Science | ![Open](https://img.shields.io/badge/●-OPEN-f0f0f0?style=flat-square&labelColor=1a1a1a) |
-
-</div>
 
 ---
 
@@ -204,49 +185,6 @@ STACK     : Python · PyTorch · Snakemake · HPC Cluster · Medical Imaging Pip
 
 ---
 
-## 🎓 &nbsp; ACADEMIC TRAJECTORY &nbsp;&nbsp; ⚕️ &nbsp; CAREER TIMELINE
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-### Education
-
-| | Institution | Credential | Year |
-|--|:--|:--|:--:|
-| 🌲 | **Stanford University** | Data Science in Medicine | 2025 |
-| 🦅 | **SUNY Stony Brook** | M.S. Biomedical Informatics | 2024–25 |
-| 🏛️ | **Sapienza University, Rome** | B.S. Bioinformatics | 2020–23 |
-| 🇪🇸 | **San Jorge University, Spain** | Erasmus Exchange | 2023 |
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-### Experience
-
-```
-▶ Aug 2025 → Present
-  Health Informatics Associate
-  Downtown Pain Physicians · Brooklyn, NY
-  EHR Analytics · Dashboards · HIPAA
-
-▶ Aug 2024 – Apr 2025
-  Research Assistant
-  Stony Brook Medicine · SUNY SB
-  GNN · EHR Graphs · AUROC +11%
-
-▶ Jul – Dec 2023
-  Research Intern (Published)
-  Computer Vision Lab · Sapienza, Rome
-  U-Net MRI · Dice +14% · 1 TB data
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 &nbsp; GITHUB INTELLIGENCE
 
