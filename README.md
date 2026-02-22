@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,8,16&height=180&section=header&text=MITTAL%20KUMAR&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=⚕️%20Health%20Informatics%20·%20Clinical%20AI%20·%20Biomedical%20Research&descAlignY=75&descSize=16&descColor=00d9ff" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=780&lines=⚕️+Health+Informatics+Associate+%40+Downtown+Pain+Physicians%2C+Brooklyn;🌲+Graduate+Visiting+Researcher+%40+Stanford+University;🏥+Working+daily+with+Epic+EHR+·+HL7%2FFHIR+·+HIPAA+Compliance;🧠+GNN+for+Hospital+Readmission+Prediction+—+AUROC+%2B11%25;🫁+Published+U-Net+MRI+Segmentation+—+Dice+Score+%2B14%25;📊+Turning+Clinical+Data+into+Better+Patient+Outcomes;🔬+Where+Medicine+Meets+Machine+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Health+Informatics+Associate+%40+Downtown+Pain+Physicians;Visiting+Researcher+%40+Stanford+University;Epic+EHR+%7C+HL7%2FFHIR+%7C+HIPAA+Compliance;GNN+Model+%7C+30-Day+Readmission+Prediction+%7C+AUROC+%2B11%25;Published+U-Net+MRI+Segmentation+%7C+Dice+Score+%2B14%25;Turning+Clinical+Data+into+Better+Patient+Outcomes;Where+Medicine+Meets+Machine+Intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
