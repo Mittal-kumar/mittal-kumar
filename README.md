@@ -1,36 +1,36 @@
 <div align="center">
 
-<!-- HOLOGRAPHIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:001a3d,60:003380,100:00d4ff&height=280&section=header&text=MITTAL%20KUMAR&fontSize=82&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&stroke=00ffff&strokeWidth=2&desc=Health%20Informatics%20%E2%80%A2%20Clinical%20AI%20%E2%80%A2%20Biomedical%20Research&descAlignY=68&descSize=17&descColor=7dd3fc" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a1a1a,60:2d2d2d,100:c0c0c0&height=280&section=header&text=MITTAL%20KUMAR&fontSize=82&fontColor=e8e8e8&animation=fadeIn&fontAlignY=45&stroke=c0c0c0&strokeWidth=2&desc=Health%20Informatics%20%E2%80%A2%20Clinical%20AI%20%E2%80%A2%20Biomedical%20Research&descAlignY=68&descSize=17&descColor=a0a0a0" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&width=900&lines=%E2%96%B6+Health+Informatics+Associate+%40+Downtown+Pain+Physicians%2C+Brooklyn;%E2%96%B6+Visiting+Researcher+%40+Stanford+University+%7C+Data+Science+in+Medicine;%E2%96%B6+Epic+EHR+%7C+HL7%2FFHIR+%7C+HIPAA-Grade+Data+Governance;%E2%96%B6+GNN+Hospital+Readmission+%E2%86%91+AUROC+%2B11%25+over+Clinical+Baseline;%E2%96%B6+Published+U-Net+MRI+Segmentation+%E2%86%91+Dice+Score+%2B14%25;%E2%96%B6+3+Continents+%7C+4+Universities+%7C+1+Mission%3A+Better+Patient+Outcomes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=800&color=C0C0C0&background=00000000&center=true&vCenter=true&width=900&lines=%E2%96%B6+Health+Informatics+Associate+%40+Downtown+Pain+Physicians%2C+Brooklyn;%E2%96%B6+Visiting+Researcher+%40+Stanford+University+%7C+Data+Science+in+Medicine;%E2%96%B6+Epic+EHR+%7C+HL7%2FFHIR+%7C+HIPAA-Grade+Data+Governance;%E2%96%B6+GNN+Hospital+Readmission+%E2%86%91+AUROC+%2B11%25+over+Clinical+Baseline;%E2%96%B6+Published+U-Net+MRI+Segmentation+%E2%86%91+Dice+Score+%2B14%25;%E2%96%B6+3+Continents+%7C+4+Universities+%7C+1+Mission%3A+Better+Patient+Outcomes" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGE ROW 1 -->
+<!-- BADGE ROW — CONTACT -->
 <a href="mailto:mittalkumarusa@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-mittalkumarusa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000"/>
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-mittalkumarusa%40gmail.com-c0c0c0?style=for-the-badge&logo=gmail&logoColor=black&labelColor=2d2d2d"/>
 </a>
 <a href="https://linkedin.com/in/mittalkumar">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-mittal--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001433"/>
+  <img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-mittal--kumar-a8a8a8?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=2d2d2d"/>
 </a>
 
 
 <br/><br/>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/📍_Location-Brooklyn%2C_New_York-00D9FF?style=flat-square&labelColor=001a33"/>
+<img src="https://img.shields.io/badge/📍_Location-Brooklyn%2C_New_York-c0c0c0?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🏛_AHIMA-Member_2025-10FFB4?style=flat-square&labelColor=001a33"/>
+<img src="https://img.shields.io/badge/🏛_AHIMA-Member_2025-b8b8b8?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🛡_HIPAA-Practitioner-28A745?style=flat-square&labelColor=001a33"/>
+<img src="https://img.shields.io/badge/🛡_HIPAA-Practitioner-d0d0d0?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🌍_3_Continents-4_Universities-A855F7?style=flat-square&labelColor=001a33"/>
+<img src="https://img.shields.io/badge/🌍_3_Continents-4_Universities-a0a0a0?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🤝_Open_To-Research_%26_Roles-FF6B35?style=flat-square&labelColor=1a0d00"/>
+<img src="https://img.shields.io/badge/🤝_Open_To-Research_%26_Roles-e8e8e8?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Mittal-kumar&color=00D9FF&style=flat-square&label=👁+Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Mittal-kumar&color=c0c0c0&style=flat-square&label=👁+Profile+Views"/>
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ---
 
-<!-- ABOUT SECTION WITH STYLED QUOTE -->
+<!-- SYSTEM PROFILE BOX -->
 <table>
 <tr>
 <td>
@@ -70,11 +70,11 @@
 
 |  | Domain | Status |
 |--|:--|:--|
-| 🏥 | **Role** — Health Informatics Associate · Downtown Pain Physicians, Brooklyn NY | ![Active](https://img.shields.io/badge/●-ACTIVE-00ff88?style=flat-square&labelColor=001a0d) |
-| 🧠 | **Research** — Clinical AI · Interpretable ML · Graph Neural Networks | ![Live](https://img.shields.io/badge/●-LIVE-00d4ff?style=flat-square&labelColor=001a33) |
-| 🔧 | **Stack** — Epic · FHIR APIs · Python · SQL · Tableau · Power BI | ![Deployed](https://img.shields.io/badge/●-DEPLOYED-a855f7?style=flat-square&labelColor=0d0020) |
-| 🛡️ | **Compliance** — HIPAA / GDPR · Clinical Data Governance | ![Certified](https://img.shields.io/badge/●-CERTIFIED-28a745?style=flat-square&labelColor=001a0d) |
-| 🤝 | **Open To** — Research Collaborations · Healthcare AI · Clinical Data Science | ![Open](https://img.shields.io/badge/●-OPEN-ff6b35?style=flat-square&labelColor=1a0d00) |
+| 🏥 | **Role** — Health Informatics Associate · Downtown Pain Physicians, Brooklyn NY | ![Active](https://img.shields.io/badge/●-ACTIVE-e8e8e8?style=flat-square&labelColor=1a1a1a) |
+| 🧠 | **Research** — Clinical AI · Interpretable ML · Graph Neural Networks | ![Live](https://img.shields.io/badge/●-LIVE-c0c0c0?style=flat-square&labelColor=1a1a1a) |
+| 🔧 | **Stack** — Epic · FHIR APIs · Python · SQL · Tableau · Power BI | ![Deployed](https://img.shields.io/badge/●-DEPLOYED-a8a8a8?style=flat-square&labelColor=1a1a1a) |
+| 🛡️ | **Compliance** — HIPAA / GDPR · Clinical Data Governance | ![Certified](https://img.shields.io/badge/●-CERTIFIED-d4d4d4?style=flat-square&labelColor=1a1a1a) |
+| 🤝 | **Open To** — Research Collaborations · Healthcare AI · Clinical Data Science | ![Open](https://img.shields.io/badge/●-OPEN-f0f0f0?style=flat-square&labelColor=1a1a1a) |
 
 </div>
 
@@ -124,35 +124,35 @@
 
 **`[ 🏥 HEALTHCARE SYSTEMS ]`**
 
-![Epic EHR](https://img.shields.io/badge/Epic_EHR-005EB8?style=for-the-badge&labelColor=00152e)
-![HL7 / FHIR](https://img.shields.io/badge/HL7_%2F_FHIR-E91E63?style=for-the-badge&labelColor=1a0011)
-![HIPAA](https://img.shields.io/badge/HIPAA_Compliance-28A745?style=for-the-badge&logo=shield&logoColor=white&labelColor=001a0d)
-![ICD-10](https://img.shields.io/badge/ICD--10_%2F_CPT-FF5722?style=for-the-badge&labelColor=1a0d00)
-![CDS](https://img.shields.io/badge/Clinical_Decision_Support-3F51B5?style=for-the-badge&labelColor=00071a)
+![Epic EHR](https://img.shields.io/badge/Epic_EHR-c0c0c0?style=for-the-badge&logoColor=black&labelColor=2d2d2d)
+![HL7 / FHIR](https://img.shields.io/badge/HL7_%2F_FHIR-a8a8a8?style=for-the-badge&labelColor=2d2d2d)
+![HIPAA](https://img.shields.io/badge/HIPAA_Compliance-d4d4d4?style=for-the-badge&logo=shield&logoColor=black&labelColor=2d2d2d)
+![ICD-10](https://img.shields.io/badge/ICD--10_%2F_CPT-b8b8b8?style=for-the-badge&labelColor=2d2d2d)
+![CDS](https://img.shields.io/badge/Clinical_Decision_Support-e0e0e0?style=for-the-badge&labelColor=2d2d2d)
 
 **`[ 🧠 AI / MACHINE LEARNING ]`**
 
-![GNN](https://img.shields.io/badge/Graph_Neural_Networks-8A2BE2?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0d001a)
-![U-Net](https://img.shields.io/badge/Computer_Vision_%2F_U--Net-00C7B7?style=for-the-badge&logo=opencv&logoColor=white&labelColor=001a19)
-![XAI](https://img.shields.io/badge/Explainable_AI_(XAI/SHAP)-FF2D78?style=for-the-badge&labelColor=1a0010)
-![EHR ML](https://img.shields.io/badge/EHR_Predictive_Modeling-A855F7?style=for-the-badge&labelColor=0d0020)
-![ECG](https://img.shields.io/badge/ECG_Signal_Processing-FF6B35?style=for-the-badge&labelColor=1a0d00)
+![GNN](https://img.shields.io/badge/Graph_Neural_Networks-c0c0c0?style=for-the-badge&logo=graphql&logoColor=black&labelColor=1a1a1a)
+![U-Net](https://img.shields.io/badge/Computer_Vision_%2F_U--Net-d0d0d0?style=for-the-badge&logo=opencv&logoColor=black&labelColor=1a1a1a)
+![XAI](https://img.shields.io/badge/Explainable_AI_(XAI/SHAP)-a8a8a8?style=for-the-badge&labelColor=1a1a1a)
+![EHR ML](https://img.shields.io/badge/EHR_Predictive_Modeling-e8e8e8?style=for-the-badge&labelColor=1a1a1a)
+![ECG](https://img.shields.io/badge/ECG_Signal_Processing-b8b8b8?style=for-the-badge&labelColor=1a1a1a)
 
 **`[ 🧬 BIOINFORMATICS ]`**
 
-![Genomics](https://img.shields.io/badge/Genomics_%2F_Transcriptomics-6A0DAD?style=for-the-badge&labelColor=0d0015)
-![GATK](https://img.shields.io/badge/GATK_%7C_SAMtools-FF5722?style=for-the-badge&labelColor=1a0d00)
-![BLAST](https://img.shields.io/badge/BLAST_%7C_Bowtie2-607D8B?style=for-the-badge&labelColor=0d1215)
-![Multi-Omics](https://img.shields.io/badge/Multi--Omics_Integration-009688?style=for-the-badge&labelColor=001a18)
-![TCGA](https://img.shields.io/badge/TCGA_%7C_GEO_Databases-546E7A?style=for-the-badge&labelColor=0d1214)
+![Genomics](https://img.shields.io/badge/Genomics_%2F_Transcriptomics-c8c8c8?style=for-the-badge&labelColor=2d2d2d)
+![GATK](https://img.shields.io/badge/GATK_%7C_SAMtools-b0b0b0?style=for-the-badge&labelColor=2d2d2d)
+![BLAST](https://img.shields.io/badge/BLAST_%7C_Bowtie2-d8d8d8?style=for-the-badge&labelColor=2d2d2d)
+![Multi-Omics](https://img.shields.io/badge/Multi--Omics_Integration-a0a0a0?style=for-the-badge&labelColor=2d2d2d)
+![TCGA](https://img.shields.io/badge/TCGA_%7C_GEO_Databases-e0e0e0?style=for-the-badge&labelColor=2d2d2d)
 
 **`[ 📊 VISUALIZATION & ANALYTICS ]`**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=1a0e00)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1600)
-![Plotly](https://img.shields.io/badge/Plotly_%2F_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=080d18)
-![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000d1a)
-![Seaborn](https://img.shields.io/badge/Seaborn_%7C_Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000d1a)
+![Tableau](https://img.shields.io/badge/Tableau-c0c0c0?style=for-the-badge&logo=tableau&logoColor=black&labelColor=1a1a1a)
+![Power BI](https://img.shields.io/badge/Power_BI-d4d4d4?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a1a)
+![Plotly](https://img.shields.io/badge/Plotly_%2F_Dash-b8b8b8?style=for-the-badge&logo=plotly&logoColor=black&labelColor=1a1a1a)
+![R Shiny](https://img.shields.io/badge/R_Shiny-e8e8e8?style=for-the-badge&logo=r&logoColor=black&labelColor=1a1a1a)
+![Seaborn](https://img.shields.io/badge/Seaborn_%7C_Matplotlib-a8a8a8?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a1a)
 
 </div>
 
@@ -252,17 +252,17 @@ STACK     : Python · PyTorch · Snakemake · HPC Cluster · Medical Imaging Pip
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mittal-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7dd3fc&icon_color=a855f7&ring_color=00d4ff&card_width=420"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mittal-kumar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&icon_color=e0e0e0&ring_color=c0c0c0&card_width=420"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mittal-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7dd3fc&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mittal-kumar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mittal-kumar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a855f7&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=7dd3fc" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mittal-kumar&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=c0c0c0&ring=e0e0e0&fire=c0c0c0&currStreakLabel=c0c0c0&sideLabels=a0a0a0&dates=808080" width="600"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mittal-kumar&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00d4ff&point=a855f7&color=7dd3fc&area=true&area_color=00d4ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mittal-kumar&theme=github-compact&hide_border=true&bg_color=0d0d0d&line=c0c0c0&point=e0e0e0&color=a0a0a0&area=true&area_color=808080" width="95%"/>
 
 </div>
 
@@ -272,21 +272,21 @@ STACK     : Python · PyTorch · Snakemake · HPC Cluster · Medical Imaging Pip
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced_Data_Analytics-Google_%C2%B7_Coursera_2025-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=00071a"/>
+<img src="https://img.shields.io/badge/Advanced_Data_Analytics-Google_%C2%B7_Coursera_2025-c0c0c0?style=for-the-badge&logo=google&logoColor=black&labelColor=2d2d2d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ML_Linear_Algebra-Imperial_College_London_2025-003E74?style=for-the-badge&labelColor=00071a"/>
+<img src="https://img.shields.io/badge/ML_Linear_Algebra-Imperial_College_London_2025-d4d4d4?style=for-the-badge&labelColor=2d2d2d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AHIMA_Member-2025%E2%80%93Present-10FFB4?style=for-the-badge&labelColor=001a10"/>
+<img src="https://img.shields.io/badge/AHIMA_Member-2025%E2%80%93Present-a8a8a8?style=for-the-badge&labelColor=2d2d2d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/First_Aid-American_Red_Cross-CC0000?style=for-the-badge&logo=redcross&logoColor=white&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/First_Aid-American_Red_Cross-e0e0e0?style=for-the-badge&logo=redcross&logoColor=black&labelColor=2d2d2d"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🇺🇸_English-Professional_Proficiency-0A66C2?style=flat-square&labelColor=000d1a"/>
+<img src="https://img.shields.io/badge/🇺🇸_English-Professional_Proficiency-c0c0c0?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🇮🇳_Hindi-Native_Speaker-FF6B35?style=flat-square&labelColor=1a0d00"/>
+<img src="https://img.shields.io/badge/🇮🇳_Hindi-Native_Speaker-a8a8a8?style=flat-square&labelColor=1a1a1a"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🇮🇹_Italian-Intermediate_(B1)-009246?style=flat-square&labelColor=001a08"/>
+<img src="https://img.shields.io/badge/🇮🇹_Italian-Intermediate_(B1)-d4d4d4?style=flat-square&labelColor=1a1a1a"/>
 
 </div>
 
@@ -295,14 +295,14 @@ STACK     : Python · PyTorch · Snakemake · HPC Cluster · Medical Imaging Pip
 <!-- TROPHIES -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mittal-kumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mittal-kumar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
 
 </div>
 
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a3d,50:003380,100:00d4ff&height=140&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=14&text=Let%27s%20engineer%20the%20future%20of%20healthcare%20together&fontAlignY=60&desc=mittalkumarusa%40gmail.com%20%C2%B7%20linkedin.com%2Fin%2Fmittalkumar&descAlignY=80&descSize=13&descColor=7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a1a,100:c0c0c0&height=140&section=footer&animation=fadeIn&fontColor=e0e0e0&fontSize=14&text=Let%27s%20engineer%20the%20future%20of%20healthcare%20together&fontAlignY=60&desc=mittalkumarusa%40gmail.com%20%C2%B7%20linkedin.com%2Fin%2Fmittalkumar&descAlignY=80&descSize=13&descColor=a0a0a0" width="100%"/>
 
 <div align="center">
 <br/>
@@ -314,10 +314,10 @@ STACK     : Python · PyTorch · Snakemake · HPC Cluster · Medical Imaging Pip
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔬_Open_to-Research_Collaborations-A855F7?style=for-the-badge&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/🔬_Open_to-Research_Collaborations-c0c0c0?style=for-the-badge&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼_Seeking-Clinical_AI_%26_Data_Science_Roles-00D4FF?style=for-the-badge&labelColor=001a33"/>
+<img src="https://img.shields.io/badge/💼_Seeking-Clinical_AI_%26_Data_Science_Roles-d4d4d4?style=for-the-badge&labelColor=1a1a1a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/✉️_DM_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001433"/>
+<img src="https://img.shields.io/badge/✉️_DM_on-LinkedIn-a8a8a8?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a1a"/>
 
 </div>
